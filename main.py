@@ -21,7 +21,7 @@ from aiogram.exceptions import TelegramBadRequest
 
 # ==================== КОНФИГУРАЦИЯ ====================
 
-TOKEN = "8445773141:AAGsBvSnz3PPKHOHMtlLy9OF0NysloXSws"
+TOKEN = "8445773141:AAGs7BvSnz3PPKHOHMtlLy9OF0NysloXSws"
 ADMIN_ID = 123456789  # ⚠️ ЗАМЕНИТЕ НА СВОЙ TELEGRAM ID
 PLATFORM_FEE = 0.05  # Комиссия платформы 5%
 
