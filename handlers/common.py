@@ -63,4 +63,5 @@ async def cmd_menu(message: Message, state: FSMContext):
     
     await message.answer(
         "📱 <b>Главное меню</b>",
-        reply_markup=get_main
+        reply_markup=get_main_menu(user['role'])
+    )
