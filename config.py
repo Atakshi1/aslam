@@ -7,7 +7,7 @@ from dataclasses import dataclass
 @dataclass
 class Config:
     """Конфигурация бота"""
-    BOT_TOKEN: str = "YOUR_BOT_TOKEN_HERE"  # Замените на токен от @BotFather
+    BOT_TOKEN: str = "8445773141:AAGs7BvSnz3PPKHOHMtlLy9OF0NysloXSws"  # Замените на токен от @BotFather
     ADMIN_IDS: list = None  # Список ID администраторов
     
     # Настройки базы данных
